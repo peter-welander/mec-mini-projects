@@ -14,5 +14,6 @@ Thumbs.db
 
 # VSCode
 .vscode/*
-mec-3.4.1-api-mini-project/.env
+
+# Ignore files with API keys in them.
 mec-3.4.1-api-mini-project/.env
