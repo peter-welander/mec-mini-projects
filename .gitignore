@@ -17,3 +17,4 @@ Thumbs.db
 
 # Ignore files with API keys in them.
 mec-3.4.1-api-mini-project/.env
+mec-5.2.2-tabular-data-eda/Iris.csv
